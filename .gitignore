@@ -1,0 +1,12 @@
+node_modules
+.vscode
+package-lock.json
+# yarn.lock
+dist
+.env
+*.env
+public
+mongodb/db
+
+src/assets/user-image
+production.yml
